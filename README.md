@@ -2,7 +2,7 @@
 
 i'm corey, creator of the [Urbanist font project](https://github.com/coreyhu/Urbanist) and a machine learning engineer at nvidia 
 
-🔗 [My website](www.coreyhu.com)
+🔗 [My website](https://www.coreyhu.com)
 
 ![Corey's GitHub stats](https://github-readme-stats.vercel.app/api?username=coreyhu&show_icons=true&theme=dracula&custom_title=Github%20Stats&border_radius=10&hide_rank=true)
 <!-- 
