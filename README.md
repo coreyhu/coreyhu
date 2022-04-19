@@ -4,7 +4,7 @@ i'm corey, creator of the [Urbanist font project](https://github.com/coreyhu/Urb
 
 🔗 [My website](https://www.coreyhu.com)
 
-![Corey's GitHub stats](https://github-readme-stats.vercel.app/api?username=coreyhu&show_icons=true&theme=dracula&custom_title=Github%20Stats&border_radius=10&hide_rank=true)
+<!-- ![Corey's GitHub stats](https://github-readme-stats.vercel.app/api?username=coreyhu&show_icons=true&theme=dracula&custom_title=Github%20Stats&border_radius=10&hide_rank=true) -->
 <!-- 
 ![Corey's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coreyhu&layout=compact&theme=dracula&custom_title=Favorite%20Languages&border_radius=10)
  -->
