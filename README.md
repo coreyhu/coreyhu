@@ -1,6 +1,6 @@
 ### hi there 👋
 
-i'm corey, creator of the [Urbanist font project](https://github.com/coreyhu/Urbanist) and a machine learning engineer at nvidia 
+i'm corey, creator of the [Urbanist font project](https://github.com/coreyhu/Urbanist) and a machine learning engineer at truera 
 
 🔗 [My website](https://www.coreyhu.com)
 
