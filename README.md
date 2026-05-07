@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Corey, creator of the [Urbanist font project](https://github.com/coreyhu/Urbanist) and a machine learning engineer at TruEra 
+I'm Corey, a machine learning engineer at Meta Superintelligence Labs and creator of the [Urbanist font project](https://github.com/coreyhu/Urbanist).
 
 🫶 [My website](https://www.coreyhu.com)
 
